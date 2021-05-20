@@ -1,24 +1,21 @@
 ### Devv Web Frontend
-
-- HTML5
-- CSS3
-- SVG
-- Bootstrap
-- Figma
-- Markdown 
+ 
 - JavaScript
-- TypeScript
+- PWA
+- SPA
+- WEB Components
+- snowpack
+- Rollup
+- Parcel
+- vite 
+- gulp 
 - Webpack
-- Git
-- GitHub
 - React
+- Axios
+- Vite
 - Node
 - Express
-- Stripe
-- MongoDB
-- GraphQL
-- esLint
-- cypress
+
 
 
 # Editor.md
