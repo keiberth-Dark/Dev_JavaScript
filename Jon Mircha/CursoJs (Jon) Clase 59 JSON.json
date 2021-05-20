@@ -1,0 +1,13 @@
+{
+    "Cadena": "Keiberth",
+    "Numero": "35",
+    "Booleano": "true",
+    "Arreglo": ["correr", "Caminar", "Cocinar"],
+    "Objeto": {
+      "Twitter": "@HOLAAA",
+      "Email": "Darkk31@hotmail.com"
+    },
+    "Nulo": null
+  }
+
+  
